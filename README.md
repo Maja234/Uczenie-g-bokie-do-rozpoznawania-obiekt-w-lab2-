@@ -1,0 +1,1 @@
+# Uczenie-g-bokie-do-rozpoznawania-obiekt-w-lab2-
