@@ -1,1 +1,1 @@
-# Uczenie-g-bokie-do-rozpoznawania-obiekt-w-lab2-
+# Uczenie głębokie do rozpoznawania obiekt w lab2 
